@@ -1,2 +1,2 @@
 // No code to show.
-// Learn about what the JavaScript course has in store!!
+// Learn about what the JavaScript course has in store!
